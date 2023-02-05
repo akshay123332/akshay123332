@@ -43,6 +43,12 @@
 <!-- github status  -->
 ![github](https://github-readme-stats.vercel.app/api?username=akshay123332)
 
+<div align="center" style="display: flex; ">
+ 
+<img src="https://streak-stats.demolab.com?user=akarshabhardwaj&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+
+</div>
+
  <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="akshay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=akshay123332&theme=react-dark&hide_border=true" /></a>
 
