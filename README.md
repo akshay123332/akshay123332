@@ -52,12 +52,12 @@
 
 <div align="center" style="display: flex; ">
  
-<img src="https://streak-stats.demolab.com?user=akarshabhardwaj&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+<img src="https://streak-stats.demolab.com?user=akshay123332&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
 
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=akarshabhardwaj&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=akshay123332&theme=react-dark&hide_border=true" /></a>
 
 
 
