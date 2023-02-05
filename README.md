@@ -11,7 +11,9 @@
 - 💞️ I’m looking to collaborate on with other Developers
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/akshay-kumar-b33793227/)
 - 💬 Ask me about anything, I am happy to help 😄
+- - 📫 Reach me on *akshaykumar994687@gmail.com*
 - 🧗 I try to : Go beyond and push the bounds
+- - 💬 Have a look at my [Portfolio](https://akshay123332.github.io/)
 
 <h2>🥇 Skills:  </h2>  
 <p >
