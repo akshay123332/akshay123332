@@ -16,8 +16,12 @@
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 
-<div align="center" >
-<p>![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay123332)</p>
+
+![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay123332)</p>
+
+<div align="center">
+        <img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"/>
+ 
 </div>
 
 
