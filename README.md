@@ -17,7 +17,7 @@
 
 
 <div align="center" >
-![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay123332)
+<p>![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay123332)</p>
 </div>
 
 
