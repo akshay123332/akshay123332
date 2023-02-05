@@ -12,13 +12,12 @@
 - 💬 Ask me about anything, I am happy to help 😄
 - 🧗 I try to : Go beyond and push the bounds
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay123332)
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 
-      
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!---
 akshay123332/akshay123332 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
