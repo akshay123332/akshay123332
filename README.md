@@ -13,10 +13,10 @@
 - 💬 Ask me about anything, I am happy to help 😄
 - 🧗 I try to : Go beyond and push the bounds
 
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 
 ![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay123332)
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 
 
