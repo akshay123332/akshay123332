@@ -48,7 +48,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay123332&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
 </div>
-![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay123332)
+
 
 
 
