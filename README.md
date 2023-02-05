@@ -41,7 +41,7 @@
 ## 📊 My Github Stats
 
 <!-- github status  -->
-![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay123332)
+![github](https://github-readme-stats.vercel.app/api?username=akshay123332)
 
 
 
