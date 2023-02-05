@@ -43,8 +43,8 @@
 <!-- github status  -->
 ![github](https://github-readme-stats.vercel.app/api?username=akshay123332)
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
+ <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=akarshabhardwaj&theme=react-dark&hide_border=true" /></a>
 
 
 
