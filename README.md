@@ -13,12 +13,6 @@
 - 💬 Ask me about anything, I am happy to help 😄
 - 🧗 I try to : Go beyond and push the bounds
 
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
-
-
-
-![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay123332)</p>
-
 <h2>🥇 Skills:  </h2>  
 <p >
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -35,6 +29,14 @@
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
   
 </p>
+
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+
+
+
+![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay123332)</p>
+
+
 
 
 
