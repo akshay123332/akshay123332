@@ -45,7 +45,7 @@
 
 <div align="center" style="display: flex; ">
  
-<img src="https://streak-stats.demolab.com?user=akarshabhardwaj&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+<img src="https://streak-stats.demolab.com?user=akshay123332&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
 
 </div>
 
