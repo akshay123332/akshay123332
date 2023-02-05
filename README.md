@@ -43,6 +43,7 @@
 <!-- github status  -->
 ![github](https://github-readme-stats.vercel.app/api?username=akshay123332)
 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 
 
